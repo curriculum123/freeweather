@@ -1,0 +1,10 @@
+<litepal>
+    <daname value="free_weather"></daname>
+    <version value="1"></version>
+    <list>
+        <mapping class="com.example.freeweather.db.City"></mapping>
+        <mapping class="com.example.freeweather.db.County"></mapping>
+        <mapping class="com.example.freeweather.db.Province"></mapping>
+
+    </list>
+</litepal>
